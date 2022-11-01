@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AzureFunctionsRazorEmailTemplateSample": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --verbose --useHttps --cors * --cert \"certificate.pfx\" --password \"cjcjcjcj\" "
+    }
+  }
+}
